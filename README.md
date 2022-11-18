@@ -1,4 +1,4 @@
-# English-repositoy
+# English-repository
 New repository to English task
 
 import java.util.Scanner;
